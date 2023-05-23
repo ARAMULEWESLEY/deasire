@@ -1,0 +1,14 @@
+{
+  "AMOUNT": "0.0001",
+  "GAS PRICE": "1",
+  "GAS LIMIT": "2000000",
+  "CHECK INTERVAL": "15",
+  "AUTO SLIPPAGE": "false",
+  "LP": "ETH",
+  "OPL": "True",
+  "A_SELL": 0.0,
+  "P_SELL": "1.7",
+  "P_BUY": "1.5",
+  "USE_PERCENTAGE_PROFIT": false,
+  "DEX": "Sushiswap"
+}
